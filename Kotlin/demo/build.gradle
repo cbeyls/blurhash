@@ -2,9 +2,8 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 
 android {
-
-    compileSdk 34
     namespace "com.wolt.blurhashapp"
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.wolt.blurhash"
